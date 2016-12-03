@@ -8,8 +8,11 @@ clone remote repo มาแล้ว ทำให้ Version Control System ข�
 
 ข้อที่ 3
 git branch feature1
+
 git add 
+
 git commit Complet
+
 git push -u origin master
 
 ข้อที่ 4 
